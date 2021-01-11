@@ -1,0 +1,25 @@
+:root {
+  --primary-bg-color: #ffffff;
+}
+.header-section {
+  background-color: var(--primary-bg-color);
+}
+.container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1280px;
+  padding: 0;
+}
+.header-sidebar {
+  width: 155px;
+  height: 680px;
+}
+.logo-item {
+  padding: 32px 32px 0 55px;
+}
+.slider {
+  width: 1125px;
+  height: 680px;
+  background-image: url(./images/Slider\ img\ 3.jpg);
+}
